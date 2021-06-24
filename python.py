@@ -12,8 +12,8 @@ class Python(Snake):
 
     def climb(self):
         return "Climb the tree"
-
-    def shed_skin(self):
+    # to hide data(__)
+    def __shed_skin(self):
         return "Don't look at me, Im shedding!"
 
 fast_python = Python()

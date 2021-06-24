@@ -7,14 +7,13 @@
 - Polymorphism
 
 ### Encapsulation
-The definition of encapsulation is "the action of enclosing something in or as if in a capsule".
-Hence, removing access to parts of your code and making things private is exactly what Encapsulation is all about 
+Encapsulation is accomplished when each object maintains a private state, inside a class. Other objects can not access this state directly, instead, they can only invoke a list of public functions. 
 ### Abstraction
-
+Abstraction is an extension of encapsulation. It is the process of selecting data from a larger pool to show only the relevant details to the object. Suppose you want to create a dating application and you are asked to collect all the information about your users. 
 ### Inheritance 
-
+Inheritance is the ability of one object to acquire some/all properties of another object. For example, a child inherits the traits of his/her parents. With inheritance, reusability is a major advantage.
 ### Polymorphism
-
+Polymorphism gives us a way to use a class exactly like its parent so there is no confusion with mixing types. 
 ### Functions 
 **Functions** are a block of reusable code that can preform a specific tasks without repeating.
 

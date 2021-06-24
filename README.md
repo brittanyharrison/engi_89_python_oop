@@ -30,4 +30,6 @@ Output:
 ```python
 Welcome on Board!
 ```
+## API diagram 
 
+![Api](https://apifriends.com/wp-content/uploads/2019/03/WHAT-IS-AN-API-PHOTO-1.png)
